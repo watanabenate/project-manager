@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Project Manager
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was built using the [Chakra-UI](https://chakra-ui.com) library.
+
+Manage your personal projects and document changes on a project by project basis
 
 ## Available Scripts
 
